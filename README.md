@@ -54,7 +54,7 @@ This metric quantifies the "displacement" or volatility of a firm's financial pr
 1. Ensure you have **R** (version 4.0 or higher) and **RStudio** installed.
 2. Install the required packages by running:  
    `install.packages(c("tidyverse", "FactoMineR", "factoextra", "psych", "readxl", "writexl"))`
-3. Place the dataset **data_finale.xlsx** (or your AIDA export) in the working directory.
+3. Place the dataset **data_finale.xlsx** in the working directory.
 4. Run the script **Project_PCA.R** to execute the PCA, generate the rotated component matrices, and produce the displacement plots.
 
 ---
