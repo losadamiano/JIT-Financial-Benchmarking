@@ -32,7 +32,7 @@ This metric quantifies the "displacement" or volatility of a firm's financial pr
 
 ---
 
-## 💡 Key Findings
+## Key Findings
 * **Financial Stability:** Companies following a **Just In Time (Immediate Production)** model showed significantly lower displacement in the PCA space. This indicates a more stable financial trajectory and consistent management of working capital.
 * **Volatility of Delayed Entry:** Startups that postponed production (Group 0) exhibited higher variance and larger "trajectories," suggesting that while delaying might allow for preparation, it introduces higher financial volatility during the first years of activity.
 * **Operational Consistency:** JIT firms maintained better control over inventory-to-revenue ratios, minimizing waste and optimizing the cash conversion cycle.
@@ -50,7 +50,7 @@ This metric quantifies the "displacement" or volatility of a firm's financial pr
 
 ---
 
-## 🚀 How to Use
+## How to Use
 1. Ensure you have **R** (version 4.0 or higher) and **RStudio** installed.
 2. Install the required packages by running:  
    `install.packages(c("tidyverse", "FactoMineR", "factoextra", "psych", "readxl", "writexl"))`
